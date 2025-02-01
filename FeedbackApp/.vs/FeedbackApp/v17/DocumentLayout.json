@@ -1,0 +1,578 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\data\\feedbackappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\data\\feedbackappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\repositories\\users\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\repositories\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\repositories\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\repositories\\projects\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\repositories\\projects\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\repositories\\projects\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\repositories\\projects\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\repositories\\feedbacks\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\repositories\\feedbacks\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\repositories\\feedbacks\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\repositories\\feedbacks\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\repositories\\comments\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\repositories\\comments\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\repositories\\comments\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\repositories\\comments\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\models\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\models\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\models\\users\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\models\\users\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\models\\users\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\models\\users\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\models\\storedfunctionsandprocedures\\userwithprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\models\\storedfunctionsandprocedures\\userwithprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\models\\projects\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\models\\projects\\projectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\models\\projects\\createprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\models\\projects\\createprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\models\\login\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\models\\login\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\models\\feedbacks\\updatefeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\models\\feedbacks\\updatefeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\models\\feedbacks\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\models\\feedbacks\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\models\\feedbacks\\createfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\models\\feedbacks\\createfeedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\models\\comments\\updatecommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\models\\comments\\updatecommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\models\\comments\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\models\\comments\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\models\\comments\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\models\\comments\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|c:\\users\\jakub\\desktop\\indb\\feedbackapp\\feedbackapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA2B4822-E455-4542-A5AA-9C467725F3B9}|FeedbackApp\\FeedbackApp.csproj|solutionrelative:feedbackapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Repositories\\Projects\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Repositories\\Projects\\ProjectRepository.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Repositories\\Projects\\ProjectRepository.cs",
+              "RelativeToolTip": "FeedbackApp\\Repositories\\Projects\\ProjectRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:22:21.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Repositories\\Projects\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Repositories\\Projects\\IProjectRepository.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Repositories\\Projects\\IProjectRepository.cs",
+              "RelativeToolTip": "FeedbackApp\\Repositories\\Projects\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:22:19.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Repositories\\Feedbacks\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Repositories\\Feedbacks\\IFeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Repositories\\Feedbacks\\IFeedbackRepository.cs",
+              "RelativeToolTip": "FeedbackApp\\Repositories\\Feedbacks\\IFeedbackRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:22:18.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Repositories\\Feedbacks\\FeedbackRepository.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Repositories\\Feedbacks\\FeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Repositories\\Feedbacks\\FeedbackRepository.cs",
+              "RelativeToolTip": "FeedbackApp\\Repositories\\Feedbacks\\FeedbackRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:22:15.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Users\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Models\\Users\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Users\\UpdateUserDto.cs",
+              "RelativeToolTip": "FeedbackApp\\Models\\Users\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:22:07.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Users\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Models\\Users\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Users\\CreateUserDto.cs",
+              "RelativeToolTip": "FeedbackApp\\Models\\Users\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:22:05.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Repositories\\Users\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Repositories\\Users\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Repositories\\Users\\IUserRepository.cs",
+              "RelativeToolTip": "FeedbackApp\\Repositories\\Users\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:42:33.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Repositories\\Users\\UserRepository.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Repositories\\Users\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Repositories\\Users\\UserRepository.cs",
+              "RelativeToolTip": "FeedbackApp\\Repositories\\Users\\UserRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:42:35.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Program.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Program.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Program.cs",
+              "RelativeToolTip": "FeedbackApp\\Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:41:01.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FeedbackAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Data\\FeedbackAppDbContext.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Data\\FeedbackAppDbContext.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Data\\FeedbackAppDbContext.cs",
+              "RelativeToolTip": "FeedbackApp\\Data\\FeedbackAppDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvy0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:21:26.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserWithProjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\StoredFunctionsAndProcedures\\UserWithProjectDto.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Models\\StoredFunctionsAndProcedures\\UserWithProjectDto.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\StoredFunctionsAndProcedures\\UserWithProjectDto.cs",
+              "RelativeToolTip": "FeedbackApp\\Models\\StoredFunctionsAndProcedures\\UserWithProjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:21:54.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Projects\\ProjectDto.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Models\\Projects\\ProjectDto.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Projects\\ProjectDto.cs",
+              "RelativeToolTip": "FeedbackApp\\Models\\Projects\\ProjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:21:49.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateProjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Projects\\CreateProjectDto.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Models\\Projects\\CreateProjectDto.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Projects\\CreateProjectDto.cs",
+              "RelativeToolTip": "FeedbackApp\\Models\\Projects\\CreateProjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:21:48.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Login\\LoginDto.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Models\\Login\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Login\\LoginDto.cs",
+              "RelativeToolTip": "FeedbackApp\\Models\\Login\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:21:46.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateFeedbackDto.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Feedbacks\\UpdateFeedbackDto.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Models\\Feedbacks\\UpdateFeedbackDto.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Feedbacks\\UpdateFeedbackDto.cs",
+              "RelativeToolTip": "FeedbackApp\\Models\\Feedbacks\\UpdateFeedbackDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:21:43.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Users\\UserDto.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Models\\Users\\UserDto.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Users\\UserDto.cs",
+              "RelativeToolTip": "FeedbackApp\\Models\\Users\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:07:17.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Repositories\\Comments\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Repositories\\Comments\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Repositories\\Comments\\CommentRepository.cs",
+              "RelativeToolTip": "FeedbackApp\\Repositories\\Comments\\CommentRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwBkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:40:27.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Repositories\\Comments\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Repositories\\Comments\\ICommentRepository.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Repositories\\Comments\\ICommentRepository.cs",
+              "RelativeToolTip": "FeedbackApp\\Repositories\\Comments\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:39:44.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateFeedbackDto.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Feedbacks\\CreateFeedbackDto.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Models\\Feedbacks\\CreateFeedbackDto.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Feedbacks\\CreateFeedbackDto.cs",
+              "RelativeToolTip": "FeedbackApp\\Models\\Feedbacks\\CreateFeedbackDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:21:40.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Comments\\UpdateCommentDto.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Models\\Comments\\UpdateCommentDto.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Comments\\UpdateCommentDto.cs",
+              "RelativeToolTip": "FeedbackApp\\Models\\Comments\\UpdateCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:21:39.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Comments\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Models\\Comments\\CreateCommentDto.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Comments\\CreateCommentDto.cs",
+              "RelativeToolTip": "FeedbackApp\\Models\\Comments\\CreateCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:21:38.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Comments\\CommentDto.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Models\\Comments\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Comments\\CommentDto.cs",
+              "RelativeToolTip": "FeedbackApp\\Models\\Comments\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:21:37.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "FeedbackApp\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:49:22.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Entities\\Feedback.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Entities\\Feedback.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Entities\\Feedback.cs",
+              "RelativeToolTip": "FeedbackApp\\Entities\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:50:03.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Entities\\Comment.cs",
+              "RelativeToolTip": "FeedbackApp\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:31:04.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FeedbackApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:05:12.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FeedbackDto.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Feedbacks\\FeedbackDto.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Models\\Feedbacks\\FeedbackDto.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Models\\Feedbacks\\FeedbackDto.cs",
+              "RelativeToolTip": "FeedbackApp\\Models\\Feedbacks\\FeedbackDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:57:49.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "FeedbackApp\\Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:29:51.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Entities\\Project.cs",
+              "RelativeToolTip": "FeedbackApp\\Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:53:51.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Entities\\User.cs",
+              "RelativeToolTip": "FeedbackApp\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T19:53:46.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "FeedbackApp\\Controllers\\CommentController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwCwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T13:35:56.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FeedbackApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\jakub\\Desktop\\INDB\\FeedbackApp\\FeedbackApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FeedbackApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAcwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:41:07.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 257,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
